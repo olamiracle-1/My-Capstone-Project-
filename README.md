@@ -1,2 +1,4 @@
-# My-Capstone-Project-
-This is my Project work as a student of Incubator Hub - Capstone Dataset where l work with Sales Dataset and Customer Dataset.
+# Capstone-Sales-Data-Project
+This is my Project work on Sales Capstone Dataset as a Data Analysis student with Incubator Hub.
+
+### Project Title: Capstone Sales Dataset
