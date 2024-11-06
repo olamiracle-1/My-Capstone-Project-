@@ -65,6 +65,11 @@ The main source of the Data used is LITA Capstone Dataset .xls and it was transf
     6. find the top 5 customers by total purchase amount.
     7. calculate the percentage of total sales contributed by each region.
     8. identify products with no sales in the last quarter.
+ 
+- Power BI: Creating a dashboard that visualizes the insights found in Excel and SQL.
+  
+  The dashboard includes a sales overview, top-performing products, and regional breakdowns.
+
   
 ### Data Analysis
   ---
