@@ -22,4 +22,27 @@ The main source of the Data used is LITA Capstone Dataset .xls and it was transf
 - Power BI
   1. For Business Intelligence reports
   2. For Data Visualization
+ 
+  ### Data Cleaning and Preparations
+  During the time of working on the Data, we perform the following action to cleaning and prepare the reports;
+   1. Handling missing variables
+   2. Data loading and Inspection
+   3. Data Cleaning and formatting
+ 
+  ### Exploratory Data Analysis
+  Using EDA to answer some questions about the Data such as;
+- Excel:
+    1. Calculate metrics such as average sales per product and total revenue by region.
+    2. Use pivot tables to summarize total sales by product, region, and month.
+
+- SQL: Write the following queries to extract key insights based on the following questions; 
+    1. retrieve the total sales for each product category.
+    2. find the number of sales transactions in each region.
+    3. find the highest-selling product by total sales value.
+    4. calculate total revenue per product.
+    5. calculate monthly sales totals for the current year.
+    6. find the top 5 customers by total purchase amount.
+    7. calculate the percentage of total sales contributed by each region.
+    8. identify products with no sales in the last quarter.
+  
   
