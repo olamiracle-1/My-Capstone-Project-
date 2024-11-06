@@ -2,16 +2,20 @@
 This is my Project work on Sales Capstone Dataset as a Data Analysis student with Incubator Hub.
 
 ### Project Title: Sales Performance Analysis for a Retail Store
+---
 
 ### Project Summary
+---
 This project is tasked with analyzing the sales performance of a retail store from January 2023 to August 2024. 
 We will use the sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. 
 The goal is to produce an interactive Power BI dashboard that highlights these findings.
 
 ### Sources of Data 
+---
 The main source of the Data used is LITA Capstone Dataset .xls and it was transform to SalesData csv. for easy import to SQL.
 
 ### Required Tools
+---
 - Microsoft Excel
    1. For Data Cleaning
    2. For Analysis
@@ -23,13 +27,15 @@ The main source of the Data used is LITA Capstone Dataset .xls and it was transf
   1. For Business Intelligence reports
   2. For Data Visualization
  
-  ### Data Cleaning and Preparations
+ ### Data Cleaning and Preparations
+  ---
   During the time of working on the Data, we perform the following action to cleaning and prepare the reports;
    1. Handling missing variables
    2. Data loading and Inspection
    3. Data Cleaning and formatting
  
-  ### Exploratory Data Analysis
+### Exploratory Data Analysis
+  ---
   Using EDA to answer some questions about the Data such as;
 - Excel:
     1. Calculate metrics such as average sales per product and total revenue by region.
@@ -45,4 +51,31 @@ The main source of the Data used is LITA Capstone Dataset .xls and it was transf
     7. calculate the percentage of total sales contributed by each region.
     8. identify products with no sales in the last quarter.
   
+### Data Analysis
+  ---
+  These are some of the lines of queries used during the process of analysing the Dataset;
+
+```EXCEL
+=SUMIF(C2:C9922,"Gloves",H2:H9922)
+```
+
+```EXCEL
+=AVERAGEIF(C2:C9922,"Gloves",H2:H9922)
+```
+
+```SQL
+SELECT * FROM [dbo].[SalesData_Project]
+```
+  
+ ```SQL
+ SELECT Product, SUM(Sales) as TotalSales
+ from [dbo].[SalesData_Project]
+ Group by Product
+ ```
+
+```SQL
+SELECT Region,SUM(Sales) as Total_Sales
+FROM [dbo].[SalesData_Project]
+Group by Region
+```
   
