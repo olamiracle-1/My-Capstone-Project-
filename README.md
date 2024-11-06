@@ -81,9 +81,16 @@ Group by Region
 
 ### Data Visualization
 
+**EXCEL**
+
 ![Sales Data Excel 1](https://github.com/user-attachments/assets/221d00e4-dc9b-40f5-bc12-6cf7a05d222e)
 
 ![Sales Data Excel 2](https://github.com/user-attachments/assets/05239ce9-182b-4cfa-af36-e7458682cad8)
+
+**SQL**
+
+
+
 
 ![My Project Sales Data 1](https://github.com/user-attachments/assets/4869f4cf-fbe7-443e-82f4-1ad6cc5f8d17)
 
