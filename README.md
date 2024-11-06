@@ -2,7 +2,22 @@
 This is my Project work on Sales Capstone Dataset as a Data Analysis student with Incubator Hub.
 
 ### Project Title: Sales Performance Analysis for a Retail Store
----
+
+
+[Project Summary](#project-summary)
+
+[Sources of Data](#sources-of-data)
+
+[Required Tools](#required-tools)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](data-visualization)
+
 
 ### Project Summary
 ---
@@ -81,17 +96,25 @@ Group by Region
 
 ### Data Visualization
 
+
+
 **EXCEL**
 
 ![Sales Data Excel 1](https://github.com/user-attachments/assets/221d00e4-dc9b-40f5-bc12-6cf7a05d222e)
 
 ![Sales Data Excel 2](https://github.com/user-attachments/assets/05239ce9-182b-4cfa-af36-e7458682cad8)
 
+
+
 **SQL**
 
+![SQL SalesData 1](https://github.com/user-attachments/assets/bb17b78b-0166-41e4-be96-5b83c246b770)
+
+![SQL SalesData 2](https://github.com/user-attachments/assets/667339ca-ac95-4f8e-bb4d-7847d36924e8)
 
 
 
+**POWER BI**
 ![My Project Sales Data 1](https://github.com/user-attachments/assets/4869f4cf-fbe7-443e-82f4-1ad6cc5f8d17)
 
 ![My Project Sales Data 2](https://github.com/user-attachments/assets/eacbdc11-7bb1-418f-bfea-010d8346f84d)
